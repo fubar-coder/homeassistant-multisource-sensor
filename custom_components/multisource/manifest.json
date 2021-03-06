@@ -1,6 +1,7 @@
 {
   "domain": "multisource",
   "name": "Multisource sensor",
+  "version": "1.0.0",
   "documentation": "https://github.com/akasma74/homeassistant-multisource-sensor",
   "requirements": [],
   "dependencies": [],
